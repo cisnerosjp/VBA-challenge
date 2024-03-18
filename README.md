@@ -1,6 +1,6 @@
 # VBA Challenge
 
-![image](https://github.com/cisnerosjp/VBA-challenge/assets/97692681/f1ffa6e3-d633-4062-93a2-651718394d03)
+![image](https://github.com/cisnerosjp/VBA-challenge/assets/97692681/49be8d0e-549c-4dac-8f80-d2aa4318e169)
 
 
 ## The Task
